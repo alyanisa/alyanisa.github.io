@@ -1,0 +1,9 @@
+body, h1,h2,h3,h4,h5,h6 {font-family: "Montserrat", sans-serif}
+.w3-row-padding img {margin-bottom: 20px}
+.bgimg {
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-image: url('1a13b68f-ee2c-4f97-9546-fc1fb1b5fb56.jpeg');
+  min-height: 100%;
+}
